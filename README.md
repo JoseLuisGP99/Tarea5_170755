@@ -26,9 +26,9 @@ Tarea 5: Aplicación Stateful con Imagenes
 &nbsp;
 &nbsp;
 
-## Salida
+## Detalles
 <p align="justify">
-  Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón.
+  Las siguientes imagenes muestran como es que son los resultados de datos o el cambio de estado que muestra cada vez que se da un click al botón.
   Para los cambios de estado, se muestran un cambio tanto de imagen como de texto. En este caso, es el cambio de pesonaje de One Piece, con su nombre (los primeros 5 integrantes) y en el orden de incorporación a los Mugiwara.
 </p>
 
